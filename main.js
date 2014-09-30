@@ -1,17 +1,32 @@
-var numOne = document.getElementById (num_one);
-    numTwo = document.getElementById (num_two);
+var text;
+    numOne = document.getElementById ('num_one');
+    numTwo = document.getElementById ('num_two');
+    button = document.getElementById('calculateBTN');
     submit;
     answwer;
 
 
-function Calculate (numOne + numTwo) {
+     Calculate = function (numOne,numTwo) {
+       return (numOne + numTwo);
 
-   document.getElementById(num_one)
+    };
 
-}
+    button.onclick = function () {
 
+    text = document.getElementById(numOne,numTwo).value;
 
-onSubmit = Calculate (num_one + num_2);
+    };
 
 
 answer = Number(calculate);
+
+----------------------------
+
+
+ document.getElementById('actionBTN').onclick = function () {
+
+   text = document.getElementById('name').value;
+
+   helloWorld(text);
+
+ };

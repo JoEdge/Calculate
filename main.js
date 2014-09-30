@@ -1,15 +1,17 @@
-var text;
-    num_one;
-    num_two;
+var numOne = document.getElementById (num_one);
+    numTwo = document.getElementById (num_two);
     submit;
     answwer;
 
-num_one =
 
-num_two = 
+function Calculate (numOne + numTwo) {
+
+   document.getElementById(num_one)
+
+}
 
 
-calculate = (num_one + num_two);
+onSubmit = Calculate (num_one + num_2);
 
 
-answer = calculate
+answer = Number(calculate);

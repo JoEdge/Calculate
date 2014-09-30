@@ -4,9 +4,12 @@ var text;
     submit;
     answwer;
 
+num_one =
 
-document.getElementById('num-one') function () {
+num_two = 
 
-    text = getElementById
 
-}
+calculate = (num_one + num_two);
+
+
+answer = calculate

@@ -1,12 +1,12 @@
 main {
-  width: 800px;
+  width: 750px;
   margin: auto;
   background-color: red;
   border: 10px dashed black; }
 
 .box {
   width: 400px;
-  height: 501px;
+  height: 450px;
   padding-top: 35px;
   margin: auto;
   background-color: white;
